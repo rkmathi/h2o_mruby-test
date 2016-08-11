@@ -7,7 +7,7 @@ Simple CRUD APIs with h2o_mruby
 ```
 $ cd /path/to/h2o
 $ cmake -DWITH_MRUBY=ON .
-$ make h2o
+$ make
 ```
 
 2. Run h2o

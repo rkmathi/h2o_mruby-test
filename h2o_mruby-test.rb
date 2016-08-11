@@ -71,7 +71,7 @@ class H2oMrubyTest
           [500, 'WRONG METHOD or API_PATH']
         end
 
-      res_headers = { 'content-type' => 'application/json; charset=utf-9' }
+      res_headers = { 'content-type' => 'application/json; charset=utf-8' }
       [res_status, res_headers, [res_body]]
     end
 
